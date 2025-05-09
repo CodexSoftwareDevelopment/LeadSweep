@@ -33,18 +33,22 @@ Built for **freelancers, marketers, and small business owners**, LeadSweep saves
 ---
 
 ## 📁 Folder Structure (to be updated)
-LeadSweep/
-│
-├── main.py # Entry point
-├── scraper/ # Web scraping logic
-├── ui/ # PyQt GUI files
-├── assets/ # Icons, images, branding
-├── output/ # Generated CSVs
-└── logs/ # Error and event logs
 
-yaml
-Copy
-Edit
+LeadSweep/
+
+│
+
+├── main.py # Entry point
+
+├── scraper/ # Web scraping logic
+
+├── ui/ # PyQt GUI files
+
+├── assets/ # Icons, images, branding
+
+├── output/ # Generated CSVs
+
+└── logs/ # Error and event logs
 
 ---
 
